@@ -1,0 +1,285 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+.contactContainer {
+    background-color: #eeeeee98;
+    width: 60%;
+    padding: 20px;
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid #5AB7E8;
+    border-radius: 15px;
+}
+
+.contactHeader {
+    font-family: Helvetica;
+    font-size: 24pt;
+    color: white;
+    width: 640px;
+    height: 100px;
+    padding: 20px;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #5AB7E8;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+.contactBtns {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-self: center;
+    justify-self: center;
+}
+
+.contactBtn {
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.contactBtns a {
+    text-decoration: none;
+}
+
+/* Phone Contact Card Styling */
+
+.contactPhone {
+    color: #5AB7E8;
+    border: 2px solid #5AB7E8;
+    font-family: Helvetica;
+    font-size: 19pt;
+    font-weight: 350;
+    box-shadow: 5px 5px 10px #5AB7E8;
+}
+
+.contactPhone:hover {
+    color: white;
+    background-color: #5AB7E8;
+    box-shadow: 5px 5px 10px white;
+}
+
+.contactPhone img {
+    margin-right: 15px;
+    margin-left: -20px;
+}
+
+.contactPhone .phoneNone {
+    display: block;
+    width: 15%;
+    height: auto;
+}
+
+.contactPhone .phoneHover {
+    display: none;
+    width: 15%;
+    height: auto;
+}
+
+.contactPhone:hover .phoneNone {
+    display: none;
+}
+
+.contactPhone:hover .phoneHover {
+    display: block;
+}
+
+/* Email Contact Card Styling */
+
+.contactEmail {
+    color: #ff0000;
+    font-family: Helvetica;
+    font-size: 14pt;
+    font-weight: 350;
+    border: 2px solid #ff0000;
+    box-shadow: 5px 5px 10px #ff0000;
+}
+
+.contactEmail:hover {
+    color: white;
+    background-color: #ff0000;
+    box-shadow: 5px 5px 10px white;
+}
+
+.contactEmail img {
+    margin-right: 10px;
+    width: 17.5%;
+}
+
+.contactEmail .emailNone {
+    display: block;
+}
+
+.contactEmail .emailHover {
+    display: none;
+}
+
+.contactEmail:hover .emailNone {
+    display: none;
+}
+
+.contactEmail:hover .emailHover {
+    display: block;
+}
+
+/* Linkedin Contact Card Styling */
+
+.contactLinkedin {
+    color: #0077B5;
+    font-family: Helvetica;
+    font-size: 16pt;
+    font-weight: 350;
+    border: 2px solid #0077B5;
+    box-shadow: 5px 5px 10px #0077B5;
+}
+
+.contactLinkedin:hover {
+    color: white;
+    background-color: #0077B5;
+    box-shadow: 5px 5px 10px white;
+}
+
+.contactLinkedin img {
+    width: 20%;
+    height: 60%;
+    margin-right: 15px;
+    margin-left: -20px;
+}
+
+.contactLinkedin .linkedinNone {
+    display: block;
+}
+
+.contactLinkedin .linkedinHover {
+    display: none;
+}
+
+.contactLinkedin:hover .linkedinNone {
+    display: none;
+}
+
+.contactLinkedin:hover .linkedinHover {
+    display: block;
+}
+
+/* Github Contact Card Styling */
+
+.contactGithub {
+    color: #191717;
+    font-family: Helvetica;
+    font-size: 16pt;
+    font-weight: 350;
+    box-shadow: -5px 5px 10px #191717;
+    border: 2px solid #191717;
+}
+
+.contactGithub:hover {
+    color: white;
+    background-color: #141414;
+    box-shadow: -5px 5px 10px white;
+}
+
+.contactGithub img {
+    width: 20%;
+    height: 60%;
+    margin-right: 30px;
+    margin-left: -30px;
+}
+
+.contactGithub .githubNone {
+    display: block;
+}
+
+.contactGithub .githubHover {
+    display: none;
+}
+
+.contactGithub:hover .githubNone {
+    display: none;
+}
+
+.contactGithub:hover .githubHover {
+    display: block;
+}
+
+/* Facebook Contact Card Styling */
+
+.contactFacebook {
+    color: #3A559F;
+    font-family: Helvetica;
+    font-size: 16pt;
+    font-weight: 350;
+    box-shadow: -5px 5px 10px #3A559F;
+    border: 2px solid #3A559F;
+}
+
+.contactFacebook:hover {
+    color: white;
+    background-color: #3A559F;
+    box-shadow: -5px 5px 10px white;
+}
+
+.contactFacebook img {
+    width: 20%;
+    height: 60%;
+    margin-right: 35px;
+    margin-left: 0px;
+}
+
+.contactFacebook .facebookNone {
+    display: block;
+}
+
+.contactFacebook .facebookHover {
+    display: none;
+}
+
+.contactFacebook:hover .facebookNone {
+    display: none;
+}
+
+.contactFacebook:hover .facebookHover {
+    display: block;
+}
+
+/* Twitch Contact Card Styling */
+
+.contactTwitch {
+    color: #9146FF;
+    font-family: Helvetica;
+    font-size: 16pt;
+    font-weight: 350;
+    box-shadow: -5px 5px 10px #9146FF;
+    border: 2px solid #9146FF;
+}
+
+.contactTwitch:hover {
+    color: white;
+    background-color: #9146FF;
+    box-shadow: -5px 5px 10px white;
+}
+
+.contactTwitch img {
+    width: 20%;
+    height: 60%;
+    margin-right: 30px;
+    margin-left: -40px;
+}
