@@ -1,0 +1,53 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+.proCard {
+    width: 250px;
+    height: 125px;
+    background-color: rgba(255, 255, 255, 1);
+    border: solid rgb(255, 132, 0);
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.cardBody {
+    display: flex;
+    
+    width: auto;
+}
+
+.projectTitle {
+    font-size: 12pt;
+    font-family: Raleway;
+    color: rgb(255, 132, 0);
+}
+
+.projDesc {
+    font-size: 8pt;
+}
+
+.projLink {
+    margin-left: 20px;
+    margin-right: 10px;
+    border: solid rgb(255, 132, 0);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+a :hover {
+    background-color: rgba(255, 132, 0, 1);
+    background-position: center;
+    border-radius: 15px;
+    background-size: 100%;
+    
+}
+
+.projLink img {
+    width: 50px;
+}
