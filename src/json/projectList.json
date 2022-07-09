@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Project 01: Meal Planner",
+        "description": "Our app, Meal Crafter, is a 5-day meal planner. This app allows for the consumer discover new meals, and provide ingredients to help make shopping easier and quicker. Meal crafter allows for the consumer to plan out their meals for breakfast, lunch, and dinner.",
+        "github": "https://github.com/dubosews/Meal_Crafter",
+        "deployed": "https://dubosews.github.io/Meal_Crafter/"
+    },
+    {
+        "name": "Project 02: Pixtagram",
+        "description": "Pixtagram is a social media site for people to upload photos and leave comments. We were unable to get the image upload functionality to work, there were very tight time constraints on the project.",
+        "github": "https://github.com/dubosews/Pixtagram",
+        "deployed": "https://github.com/dubosews/Pixtagram"
+    },
+    {
+        "name": "Project 03: Restaurant Skeleton",
+        "description": "This application is an API for a social network. This application was built using express.js for routing, Mongoose was used to setup a MongoDB database, and all powered by Node.JS.",
+        "github": "https://github.com/dubosews/18-Social-Media-API",
+        "deployed": "https://github.com/dubosews/18-Social-Media-API"
+    },
+    {
+        "name": "Code Refractor to ADA",
+        "description": "This application is a simple HTML page with some CSS. Starter code was given, but it was not up to the Americans with Disabilities Act standard. I had to modify the HTML and CSS to satisfy the ADA requirements.",
+        "github": "https://github.com/dubosews/01-Code-Refractor-to-ADA",
+        "deployed": "https://dubosews.github.io/01-Code-Refractor-to-ADA/"
+    },
+    {
+        "name": "CSS Portfolio",
+        "description": "Original portfolio, used for an assignment to introduce css concepts. Not complete.",
+        "github": "https://github.com/dubosews/dubosews_C02",
+        "deployed": "https://github.com/dubosews/dubosews_C02"
+    },
+    {
+        "name": "Password Generator",
+        "description": "This is application is a random password generator, powered by javascript. There are multiple customization options available to modify the contents of the generated passwords.",
+        "github": "https://github.com/dubosews/03-Password-Generator",
+        "deployed": "https://dubosews.github.io/03-Password-Generator/"
+    },
+    {
+        "name": "Coding Quiz",
+        "description": "This application is a timed code quiz, powered by javascript. It includes multiple choice questions that must be answered correctly within the time alotted.",
+        "github": "https://github.com/dubosews/dubosews_C04",
+        "deployed": "https://dubosews.github.io/04-Basic-Coding-Quiz/"
+    },
+    {
+        "name": "Work Day Scheduler",
+        "description": "This application is a modifiable hourly scheduler, which includes an indicator that shows how far through the day you are. ",
+        "github": "https://github.com/dubosews/05-Work-Day-Scheduler",
+        "deployed": "https://dubosews.github.io/05-Work-Day-Scheduler/"
+    },
+    {
+        "name": "Weather App",
+        "description": "This application is a basic tool that displays the current weather and forecast for most locations. This app uses the One Call API from OpenWeather to fetch the weather data for the desired city.",
+        "github": "https://github.com/dubosews/06-Weather-App",
+        "deployed": "https://dubosews.github.io/06-Weather-App/"
+    },
+    {
+        "name": "README.md Generator",
+        "description": "This application is made to expedite the final steps when publishing a respository for use. It provides multiple inquiries which are used to fill in the README.md document being generated. ",
+        "github": "https://github.com/dubosews/09-README.MD-Generator",
+        "deployed": "https://github.com/dubosews/09-README.MD-Generator"
+    },
+    {
+        "name": "Team Page Generator",
+        "description": "This application is a node.js project. Using the inquirer package, and run in the command line, this application uses questions to develop a team build which is generated into an HTML document.",
+        "github": "https://github.com/dubosews/10-Team-Page-Generator",
+        "deployed": "https://github.com/dubosews/10-Team-Page-Generator"
+    },
+    {
+        "name": "Note Taker",
+        "description": "This application was built using NodeJS and is designed to allow users to create, store and read notes from a database. This application also uses the expressJS routers to send the pages.",
+        "github": "https://github.com/dubosews/11-Note-Taker",
+        "deployed": "https://github.com/dubosews/11-Note-Taker"
+    },
+    {
+        "name": "Employee Status Tracker",
+        "description": "This is a command line application for manager the Employees on your team. The client side of the application was developed with node.js, including the Inquirer npm, mySQL, and mySQL2 Client.",
+        "github": "https://github.com/dubosews/12-Employee-Status-Tracker",
+        "deployed": "https://github.com/dubosews/12-Employee-Status-Tracker"
+    },
+    {
+        "name": "ORM E-Commmerce Backend",
+        "description": "This application is a working back end server that can host an ecommerce website and the different requests that the owners and users would need to make from the server. ",
+        "github": "https://github.com/dubosews/13-ORM-EComm-Back-End",
+        "deployed": "https://github.com/dubosews/13-ORM-EComm-Back-End"
+    },
+    {
+        "name": "MVC Tech Blog",
+        "description": "This application is a tech blog built using the Model View Controller, Node.js and mySQL. This application allows users to register an account, create new blog posts, view all blog posts, view individual blog posts with comments and upvotes.",
+        "github": "https://github.com/dubosews/14-MVC-Tech-Blog",
+        "deployed": "https://github.com/dubosews/14-MVC-Tech-Blog"
+    },
+    {
+        "name": "Social Media API",
+        "description": "This application is an API for a social network. This application was built using express.js for routing, Mongoose was used to setup a MongoDB database, and all powered by Node.JS.",
+        "github": "https://github.com/dubosews/18-Social-Media-API",
+        "deployed": "https://github.com/dubosews/18-Social-Media-API"
+    },
+    {
+        "name": "PWA Budget Tracker",
+        "description": "This is a simple React.JS budget tracker application. The main purpose behind building this application was to get some familiarity with the use, purpose and deployment of Personal Web Applications.",
+        "github": "https://github.com/dubosews/19-PWA-Budget-Tracker",
+        "deployed": "https://github.com/dubosews/19-PWA-Budget-Tracker"
+    }
+]
