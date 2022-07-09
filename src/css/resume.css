@@ -1,0 +1,63 @@
+.resumeContainer {
+    background-color: #ffffffa1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 60%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid #5AB7E8;
+    border-radius: 15px;
+}
+
+.resumeHeader {
+    font-family: Helvetica;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    height: 150px;
+    background-color: white;
+    border: 2px solid #5AB7E8;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 10px 15px rgba(19, 19, 19, 0.698);
+}
+
+.resumeH1 {
+    color: #5AB7E8;
+    font-size: 24pt;
+    font-weight: 300;
+}
+
+.resumeH2 {
+    color: #757575;
+    font-size: 12pt;
+    font-weight: 300;
+}
+
+.resumeH3 {
+    color: white;
+    font-size: 10pt;
+    font-weight: 300;
+    background-color: #5AB7E8;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.resumePDFContainer {
+    width: 80%;
+    height: 675px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
