@@ -1,0 +1,192 @@
+[
+    {
+        "name": "techCreate",
+        "description": "Adobe Creative Cloud",
+        "image": "../src/img/techIcons/adobe_creativeCloud.png"
+    },
+    {
+        "name": "techDream",
+        "description": "Adobe Dreamweaver",
+        "image": "../src/img/techIcons/adobe_dreamweaver.png"
+    },
+    {
+        "name": "techIllustrate",
+        "description": "Adobe Illustrator",
+        "image": "../src/img/techIcons/adobe_illustrator.png"
+    },
+    {
+        "name": "techIndes",
+        "description": "Adobe Indesign",
+        "image": "../src/img/techIcons/adobe_indesign.png"
+    },
+    {
+        "name": "techPhotos",
+        "description": "Adobe Photoshop",
+        "image": "../src/img/techIcons/adobe_photoshop.png"
+    },
+    {
+        "name": "techPrem",
+        "description": "Adobe Premier Pro",
+        "image": "../src/img/techIcons/adobe_premier pro.png"
+    },
+    {
+        "name": "techXD",
+        "description": "Adobe XD",
+        "image": "../src/img/techIcons/adobe_xd.png"
+    },
+    {
+        "name": "techGis",
+        "description": "Arc GIS",
+        "image": "../src/img/techIcons/ArcGIS.png"
+    },
+    {
+        "name": "techAutoDesk",
+        "description": "Auto Desk",
+        "image": "../src/img/techIcons/autodesk.png"
+    },
+    {
+        "name": "techAutoCad",
+        "description": "Auto CAD",
+        "image": "../src/img/techIcons/autoCad.png"
+    },
+    {
+        "name": "techRevit",
+        "description": "Revit 3D Rendering",
+        "image": "../src/img/techIcons/revit.png"
+    },
+    {
+        "name": "techAudacity",
+        "description": "Audacity",
+        "image": "../src/img/techIcons/audacity.png"
+    },
+    {
+        "name": "techCss",
+        "description": "CSS",
+        "image": "../src/img/techIcons/css.png"
+    },
+    {
+        "name": "techDiscord",
+        "description": "Discord",
+        "image": "../src/img/techIcons/discord.png"
+    },
+    {
+        "name": "techDropBox",
+        "description": "DropBox",
+        "image": "../src/img/techIcons/dropBox.png"
+    },
+    {
+        "name": "techFirefox",
+        "description": "Mozilla Firefox",
+        "image": "../src/img/techIcons/firefox.png"
+    },
+    {
+        "name": "techGarageBand",
+        "description": "Garage Band",
+        "image": "../src/img/techIcons/garageBand.png"
+    },
+    {
+        "name": "techGithub",
+        "description": "GitHub",
+        "image": "../src/img/techIcons/GitHub.png"
+    },
+    {
+        "name": "techGoogle",
+        "description": "Google",
+        "image": "../src/img/techIcons/google.png"
+    },
+    {
+        "name": "techDrive",
+        "description": "Google Drive",
+        "image": "../src/img/techIcons/googleDrive.png"
+    },
+    {
+        "name": "techChrome",
+        "description": "Google Chrome",
+        "image": "../src/img/techIcons/googleChrome.png"
+    },
+    {
+        "name": "techDocs",
+        "description": "Gooogle Docs",
+        "image": "../src/img/techIcons/google_docs.png"
+    },
+    {
+        "name": "techHtml",
+        "description": "HTML 5",
+        "image": "../src/img/techIcons/html.png"
+    },
+    {
+        "name": "techInsomnia",
+        "description": "Insomnia",
+        "image": "../src/img/techIcons/insomnia.png"
+    },
+    {
+        "name": "techJava",
+        "description": "Javascript",
+        "image": "../src/img/techIcons/javascript.png"
+    },
+    {
+        "name": "techOneDrive",
+        "description": "Microsoft One Drive",
+        "image": "../src/img/techIcons/microsoft_oneDrive.png"
+    },
+    {
+        "name": "techExcel",
+        "description": "Microsoft Excel",
+        "image": "../src/img/techIcons/microsoft_excel.png"
+    },
+    {
+        "name": "techOutlook",
+        "description": "Microsoft Outlook",
+        "image": "../src/img/techIcons/microsoft_outlook.png"
+    },
+    {
+        "name": "techPowerP",
+        "description": "Microsoft PowerPoint",
+        "image": "../src/img/techIcons/microsoft_powerpoint.png"
+    },
+    {
+        "name": "techPublish",
+        "description": "Microsoft Publisher",
+        "image": "../src/img/techIcons/microsoft_publisher.png"
+    },
+    {
+        "name": "techWord",
+        "description": "Microsoft Word",
+        "image": "../src/img/techIcons/microsoft_word.png"
+    },
+    {
+        "name": "techMongo",
+        "description": "Mongo DB",
+        "image": "../src/img/techIcons/mongoDB.png"
+    },
+    {
+        "name": "techNode",
+        "description": "Node.JS",
+        "image": "../src/img/techIcons/NodeJS.png"
+    },
+    {
+        "name": "techReact",
+        "description": "React.JS",
+        "image": "../src/img/techIcons/ReactJS.png"
+    },
+    {
+        "name": "techSlack",
+        "description": "Slack",
+        "image": "../src/img/techIcons/slack.png"
+    },
+    {
+        "name": "techSteam",
+        "description": "Steam",
+        "image": "../src/img/techIcons/steam.png"
+    },
+    {
+        "name": "techVisual",
+        "description": "Visual Studio Code",
+        "image": "../src/img/techIcons/visualStudio.png"
+    },
+    {
+        "name": "techZoom",
+        "description": "Zoom",
+        "image": "../src/img/techIcons/zoom.png"
+    }
+]
