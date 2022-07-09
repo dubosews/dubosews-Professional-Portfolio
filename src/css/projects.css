@@ -1,0 +1,206 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+.proCard {
+    width: 300px;
+    height: 200px;
+    background-color: rgba(255, 255, 255, 1);
+    border: solid #5AB7E8;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    margin: 10px;
+    box-shadow: 0 0 5px rgba(19, 19, 19, 0.698);
+}
+
+.projectHeader {
+    font-family: Helvetica;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    height: 200px;
+    background-color: white;
+    border: 2px solid #5AB7E8;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 5px rgba(19, 19, 19, 0.698);
+}
+
+
+.projectH1 {
+    color: #5AB7E8;
+    font-size: 24pt;
+    font-weight: 300;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+.projectH1 div {
+    color: #707070;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.projectH2 {
+    color: #757575;
+    font-size: 12pt;
+    font-weight: 300;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+}
+
+.projectH3 {
+    width: 90%;
+    color: white;
+    font-size: 10pt;
+    font-weight: 300;
+    text-align: center;
+    background-color: #5AB7E8;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.proCard a {
+    text-decoration: none;
+    color: #5AB7E8;
+}
+
+.proCard a:active {
+    text-decoration: none;
+    color: white;
+}
+
+.projectContainer {
+    background-color: #ffffffa1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 80%;
+    padding-top: 15px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid #5AB7E8;
+    border-radius: 15px;
+}
+
+.cardBody {
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.projectTitle {
+    font-size: 14pt;
+    font-family: Raleway;
+    color: #5AB7E8;
+}
+
+.projDesc {
+    font-size: 8pt;
+    text-align: left;
+}
+
+.githubLink {
+    width: 150px;
+    padding: 9px;
+}
+
+.githubLink :hover {
+    background-color: #5ab6e8;
+    color: white;
+}
+
+.gitBtn {
+    border: solid #5AB7E8;
+    border-radius: 15px;
+    width: 120px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 10px;
+    margin-right: 75px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.gitHubTxt {
+    font-size: 8pt;
+    width: 60px;
+    height: auto;
+    padding-bottom: 2px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: -5px;
+}
+
+.gitBtn img {
+    width: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 20px;
+}
+
+.deployedLink {
+    width: 150px;
+}
+
+.deployedLink :hover {
+    background-color: #5ab6e8;
+    background-position: center;
+    color: white;
+}
+
+.viewBtn {
+    border: solid #5AB7E8;
+    border-radius: 15px;
+    width: 120px;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 15px;
+    margin-top: 8px;
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.viewImg {
+    width: 20px;
+    height: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: -5px;
+    
+}
+
+.viewLiveTxt {
+    font-size: 8pt;
+    width: 50px;
+    margin-right: 8px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+
