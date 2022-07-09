@@ -1,0 +1,407 @@
+.aboutContainer {
+    background-color: #eeeeee98;
+    width: fit-content;
+    padding: 20px;
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid #5AB7E8;
+    border-radius: 15px;
+    overflow-x: hidden;
+}
+
+.tabTitles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    width: 150px;
+    height: auto;
+    background-color: #13294B;
+    border: 2px solid #5AB7E8;
+    border-radius: 15px;
+    transition: 1s;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tabTitles:hover {
+    background-color: white;
+    width: 300px;
+    transition: 1s;
+}
+
+.tabTitles:hover img {
+    margin-left: 0px;
+}
+
+.tabTitles:hover .bioTabText {
+    display: block;
+}
+
+.tabTitles:hover .techTabText {
+    display: block;
+}
+
+.tabTitles:hover .certTabText {
+    display: block;
+}
+
+.aboutContent {
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+    width: 650px;
+    height: 500px;
+    background-color: #13294B;
+    border: 2px solid #5AB7E8;
+    border-radius: 15px;
+    overflow: scroll;
+}
+
+.tabContainer {
+    display: flex;
+    height: 100px;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 45px;
+    border-radius: 15px;
+    color: #5AB7E8;
+    font-family: helvetica;
+}
+
+.tabContainer:hover {
+    background-color: #13294B;
+    border: 2px solid #13294B;
+    color: #5AB7E8;
+    font-family: helvetica;
+    transition: .5s;
+}
+
+.tabContainer:hover .aboutBioDefault {
+    display: none;
+}
+
+.tabContainer:hover .aboutBioActive {
+    display: block;
+}
+
+.tabContainer:hover .aboutTechDefault {
+    display: none;
+}
+
+.tabContainer:hover .aboutTechActive {
+    display: block;
+}
+
+.tabContainer:hover .aboutCertDefault {
+    display: none;
+}
+
+.tabContainer:hover .aboutCertActive {
+    display: block;
+}
+
+.tabTitles:hover img {
+    width: 30%;
+}
+
+.aboutBioDefault {
+    display: block;
+    width: 80%;
+    margin-left: 20px;
+}
+
+.aboutBioActive {
+    display: none;
+    width: 20%;
+}
+
+.bioTabText {
+    margin-left: -20px;
+    display: none;
+    width: 150px;
+}
+
+.aboutTechDefault {
+    display: block;
+    width: 80%;
+    margin-left: 20px;
+}
+
+.aboutTechActive {
+    display: none;
+    width: 20%;
+}
+
+.techTabText {
+    margin-left: -20px;
+    display: none;
+}
+
+.aboutCertDefault {
+    display: block;
+    width: 80%;
+    margin-left: 20px;
+}
+
+.aboutCertActive {
+    display: none;
+    width: 20%;
+}
+
+.certTabText {
+    margin-left: -20px;
+    display: none;
+}
+
+.bioBody {
+    display: none;
+    flex-direction: column;
+    color: #13294B;
+}
+
+.bioTop {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+}
+
+.bioBody img {
+    width: 50%;
+    height: 250px;
+    margin-top: 3px;
+    margin-right: 10px;
+    border-radius: 15px;
+    border: 2px solid #5AB7E8;
+    box-shadow: 5px 5px 7px rgba(255, 255, 255, 0.698);    
+}
+
+.bioIntro {
+    background-color: white;
+    text-align: left;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.bioContent {
+    background-color: white;
+    text-align: justify;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-family: helvetica;
+}
+
+.bioTitle {
+    font-size: 18pt;
+    color: #5AB7E8;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.bioTxt {
+    border-radius: 15px;
+    width: auto;
+    font-size: 10.5pt;
+    font-family: helvetica;
+}
+
+.techBody {
+    display: none;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.aboutHeader {
+    font-family: Helvetica;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    border: 2px solid #5AB7E8;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 5px rgba(19, 19, 19, 0.698);
+}
+
+
+.aboutH1 {
+    color: #5AB7E8;
+    font-size: 20pt;
+    font-weight: 375;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.aboutH1 div {
+    color: #707070;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.aboutH2 {
+    color: #757575;
+    font-size: 11pt;
+    font-weight: 300;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+}
+
+.aboutH3 {
+    width: 90%;
+    color: white;
+    font-size: 10pt;
+    font-weight: 300;
+    text-align: center;
+    background-color: #5AB7E8;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.techIcons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.techIco {
+    width: 90%;
+    margin: 20px;
+}
+
+.icoAdobe{
+    margin-top: 40px;
+}
+
+.icoGis {
+    margin-top: 32px;
+}
+
+.icoRevit {
+    margin-top: 10px;
+}
+
+.icoAudacity {
+    margin-top: 30px;
+}
+
+.icoDiscord {
+    margin-top: 40px;
+}
+
+.icoAppleDefault {
+    margin-top: -5px;
+}
+
+.icoAppleHover {
+    display: none;
+    transition: 1s;
+    margin-top: -2px;
+}
+
+.appleIco:hover .icoAppleDefault {
+    display: none;
+    transition: 1s;
+}
+
+.appleIco:hover .icoAppleHover {
+    display: block;
+    
+}
+
+.icoIndvContainer {
+    position: relative;
+    width: 175px;
+    height: 175px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-self: center;
+    cursor: none;
+}
+
+.icoIndvContainer:hover img{
+    background-color: rgba(255, 255, 255, 1);
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid #5AB7E8;
+    transition: .4s;
+}
+
+.icoIndvContainer:hover div{
+    display: flex;
+    transition: .5s;
+}
+
+.techRatingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 150px;
+    left: 34px;
+    background-color: #5AB7E8;
+    border-radius: 12px;
+    padding: 5px;
+    overflow-x: hidden;
+}
+
+.hideRating {
+    display: none;
+}
+
+
+.certBody {
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.certBox {
+    height: 450px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
