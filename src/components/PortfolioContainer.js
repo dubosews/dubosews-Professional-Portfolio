@@ -6,6 +6,8 @@ import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Mobile from './pages/Mobile.js';
+
+// npm i react-device-detect 
 import {isMobile} from 'react-device-detect'
 
 import portHeader from '../img/portfolioHeaderSmall.png';
