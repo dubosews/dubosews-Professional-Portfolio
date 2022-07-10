@@ -3,10 +3,19 @@
 html, body
 {
     background-color: #13294B;
+    
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+
+.desktopBG {
+    background-color: #13294B;
     background-image: url('../img/portfolioBackground.png');
     background-size: 100%;
     background-attachment: fixed;
     background-repeat: repeat;
+    padding-bottom: 250px;
 }
 
 header h1
