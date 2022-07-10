@@ -1,4 +1,7 @@
-# Wesley DuBose's Development Portfolio <br>
+<center> 
+
+# Wesley DuBose's Development Portfolio 
+</center> <br>
 
 ## Deployment
 <a href="https://dubosews.dev" style="display: flex; justify-content: center;">
@@ -42,13 +45,13 @@ There are no tests designed for this application.
 ## Questions
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="./src/img/githubLogo.png" style="width: 10%" alt="githubLogo"></img>
-  Github Profile: [dubosews](https://github.com/dubosews)
+  Github Profile: <a href="https://github.com/dubosews">dubosews https://github.com/dubosews</a>
 </div><br>
 
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="./misc/contact%20icons/contactGmail.png" style="width: 5%; margin-right: 25px; margin-left: 25px;" alt="gmailLogo"></img>
-  Contact Email: [wsd10205@gmail.com](mailto:wsd10205@gmail.com)<br><br>
+  <img src="./misc/contact%20icons/contactGmail.png" style="width: 5%; margin: 30px;" alt="gmailLogo"></img>
+  <div style="margin-left: 20px"> Contact Email: <a href="mailto:wsd10205@gmail.com">wsd10205@gmail.com</a></div><br><br>
 </div><br>
 
 
