@@ -17,9 +17,9 @@ import contactTwitch from '../../img/contactIcons/contactTwitch.png';
 
 export default function Contact() {
   return (
-    <div className="contactContainer">
-      <div className="contactHeader">How to Contact Me:</div>
-      <div className="contactBtns">
+    <div className="contactContainer" id="contactContainer">
+      <div className="contactHeader" id="contactHeader">How to Contact Me:</div>
+      <div id="contactBtns" className="contactBtns">
         <div className="contactLeft">
           <Animation options={{}}>
             <a href="tel:+19194131792"><div className="contactBtn contactPhone">
