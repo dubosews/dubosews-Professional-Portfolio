@@ -19,6 +19,7 @@ body {
 .centerLR {
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 .homeContentCard {
@@ -80,7 +81,8 @@ body {
 }
 
 .header img {
-    width: 75%;
+    width: 80%;
+    max-height: auto;
     margin-top: 10px;
     height: 200px;
 }
