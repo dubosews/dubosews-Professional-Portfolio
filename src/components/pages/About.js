@@ -62,11 +62,18 @@ class AboutContainer extends Component {
       const viewSDKClient = new ViewSDKClient();
       viewSDKClient.ready().then(() => {
           /* Invoke file preview */
-          viewSDKClient.previewFile2("pdf-div", {
+          viewSDKClient.previewCertificate("uncCert", {
               /* Pass the embed mode option here */
               embedMode: "SIZED_CONTAINER"
           });
       });
+      viewSDKClient.ready().then(() => {
+        /* Invoke file preview */
+        viewSDKClient.previewOutward("outwardCert", {
+            /* Pass the embed mode option here */
+            embedMode: "SIZED_CONTAINER"
+        });
+    });
   }
 
   render() {
@@ -120,7 +127,7 @@ class AboutContainer extends Component {
                 <p>After graduating, I attended Appalachian State University for three and a half years where I pursued a degree in sustainable technology. Some of the classes I took include: Architecture Graphics and Computer modeling, building sciences, Digital Media Composition, Graphic design and computer aided design courses and intro to computer science and electronics courses. In my senior year, mid quarantine, a family emergency brought me back home temporarily.</p>
                 <p>I had the intention to return to Appalachian State to finish my education once I was no longer needed at home, but I came across a program offered by the University of North Carolina at Chapel Hill. This program was a Certification course to become a Full Stack Software Developer. I didn’t know much about writing code when I first started, but I had just recently built my own gaming rig and went through all the learning to overclock it and get everything setup and working the best. So, I was already getting into some of the more complicated computer concepts and I was really enjoying it so I saw learning to code as a very good way to be able to work with computers for a living. It is almost as fun to me as putting together a new computer with really good parts, but what is?</p>
                 <p>I am aware that the course did not teach me everything that I need to know, but I feel that I got a very good understanding of how to find what I do not yet know. I am a very fast learner and I can adapt quickly to different environments and circumstances, including long coding sessions. When I am not working, I am either playing video games, specifically Rocket League (I’m a D3-C1)  and Apex legends, listening to/ playing music, or surfing/ snowboarding, depending on the season. Going to school at App State up gave me an affinity for the outdoors and being in the mountains, so I hope to be able to continue to get back up there to go camping and snowboarding.</p>
-                <p>Lastly, I am not a morning person in the slightest, I much prefer to work late and sleep in. That being said, I can do mornings, I just prefer being able to sleep in. Thank you for reading this far, I look forward to hopefully meeting you in the interview.</p>
+                <p>Thank you for reading this far, I look forward to hopefully meeting you in the interview.</p>
               </div>
             </div>
             <div className="techBody" id="techBody">
@@ -818,7 +825,30 @@ class AboutContainer extends Component {
               </div>
             </div>
             <div className="certBody" id="certBody">
-              <div id="pdf-div" className="certBox"/>
+              <div className="certTitle"> 
+                <div className="certHead">
+                  <div className="certT1">Full Stack Application Development</div>
+                  <div className="certT2">The University of North Carolina at Chapel Hill</div>
+                </div>
+                <div className="certTNum">
+                  <div className="certTNumTxt">1 / 2</div>
+                </div>                      
+              </div>
+              <div className="uncCertBox">
+                <div id="uncCert" className="certBox" />
+              </div>
+              <div className="certTitle"> 
+                <div className="certHead">
+                  <div className="certT1">Fitness, Craftsmanship, Self-Reliance and Compassion</div>
+                  <div className="certT2">The North Carolina Outward Bound School</div>
+                </div>
+                <div className="certTNum">
+                  <div className="certTNumTxt">2 / 2</div>
+                </div>                      
+              </div>
+              <div className="outwardCertBox">
+              <div id="outwardCert" className="certBox" />
+              </div>        
             </div>
           </div>
       </div>
