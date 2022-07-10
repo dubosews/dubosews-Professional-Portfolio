@@ -3,7 +3,7 @@
 <div style="display: inline">
 
 # Wesley DuBose's Development Portfolio <br>
-Developed by: Wesley S. DuBose
+Developed by: Wesley S. DuBose<br>
 Framework: React.js
 </div>
 </div><br>
