@@ -8,22 +8,24 @@
 
 ## Deployment
 <a href="https://dubosews.dev" style="display: flex; justify-content: center;">
-  <br><img src="./src/img/dubosewsPortfolioScreenshotREADME.png" alt="readmeScreenshot" />
+  <br><img src="./src/img/dubosewsPortfolioScreenshotREADME.png" alt="readmeScreenshot" /><br><br>
 
+## Live-Application  
 ### https://dubosews.dev/ 
   
 </a><br><br>
 
 ## Table of Contents
   1. [Deployment](#deployment)
-  2. [Description](#description) 
-  3. [Installation](#installation)
-  4. [Usage](#usage)  
-  5. [Contributing](#contributing)
-  6. [Tests](#tests)
-  7. [License](#license)
-  8. [Questions](#questions)
-  9.  [E-mail](#e-mail)
+  2. [Live-Application](#live-application)
+  3. [Description](#description) 
+  4. [Installation](#installation)
+  5. [Usage](#usage)  
+  6. [Contributing](#contributing)
+  7. [Tests](#tests)
+  8. [License](#license)
+  9. [Questions](#questions)
+  10. [E-mail](#e-mail)
 <br><br>
 
 ## Description
