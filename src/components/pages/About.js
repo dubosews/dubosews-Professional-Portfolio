@@ -140,6 +140,7 @@ class AboutContainer extends Component {
               <div className="icoIndvContainer appleIco">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Mac OS</div>
                       <Rating 
                         name = "half-rating-read"
                         precision = {0.5}
@@ -157,6 +158,7 @@ class AboutContainer extends Component {
               <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Windows</div>
                       <Rating 
                         name = "half-rating-read"
                         precision = {0.5}
@@ -173,6 +175,7 @@ class AboutContainer extends Component {
               <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Ubuntu Linux</div>
                       <Rating 
                         name = "half-rating-read"
                         precision = {0.5}
@@ -189,6 +192,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Adobe CC</div>
                       <Rating 
                         name = "half-rating-read"
                         precision = {0.5}
@@ -205,6 +209,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Dreamweaver</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -220,6 +225,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Illustrator</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -235,6 +241,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">InDesign</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -251,6 +258,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Photoshop</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -266,10 +274,12 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Premier Pro</div>
                       <Rating 
                         name="half-rating-read" 
-                        className="techRating" 
-                        value="1" 
+                        className="techRating"
+                        precision={0.5}
+                        value="2.5" 
                         sx={{
                           color: 'white',
                         }}
@@ -281,6 +291,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Adobe XD</div>
                       <Rating 
                         name="half-rating-read" 
                         precision={0.5}
@@ -297,6 +308,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">GarageBand</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating"
@@ -313,6 +325,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Audacity</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -328,6 +341,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Autodesk</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -344,6 +358,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">AutoCAD</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating"
@@ -360,6 +375,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Revit 3D</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -376,6 +392,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Visual Studio</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -392,6 +409,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">MongoDB</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -407,6 +425,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Insomnia</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -422,6 +441,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">HTML</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -437,6 +457,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">CSS</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -453,6 +474,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Javascript</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -469,6 +491,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Node.JS</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -484,6 +507,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">React.JS</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -500,6 +524,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">GitHub</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -515,6 +540,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Google</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -530,6 +556,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Google Drive</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -546,6 +573,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Chrome</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -562,6 +590,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Safari</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -577,6 +606,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Firefox</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -592,6 +622,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Edge</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -607,6 +638,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Discord</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -623,6 +655,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Slack</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -638,6 +671,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Zoom</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -654,6 +688,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer icoOneDr">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">OneDrive</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -670,6 +705,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Word</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -685,6 +721,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Excel</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating"
@@ -701,6 +738,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">PowerPoint</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -716,6 +754,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Publisher</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -732,6 +771,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Outlook</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -748,6 +788,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Steam</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -763,6 +804,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">EA</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -778,6 +820,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">Battle.net</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -793,6 +836,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">DropBox</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
@@ -809,6 +853,7 @@ class AboutContainer extends Component {
                 <div className="icoIndvContainer">
                   <div className="hideRating">
                     <div className="techRatingContainer">
+                      <div className="techIcoTitle">ArcGIS</div>
                       <Rating 
                         name="half-rating-read" 
                         className="techRating" 
