@@ -1,0 +1,65 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+.menuDefault {
+    padding: 20px;
+}
+
+.menuIcon {
+    width: 20%;
+    margin-top: 20px;
+}
+
+.menuClose {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 15%;
+    display: none;
+}
+
+.mobileNav {
+    display: none;
+    background-color: #5ab6e8;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.menuResume {
+    color: white;
+    font-size: 18pt;
+}
+
+.menuCert {
+    color: white;
+    font-size: 18pt;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.warningIcon {
+    width: 50%;
+    margin-bottom: 25px;
+}
+
+.mobileWarningTxt {
+    text-align: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mobileContainer {
+    background-color: #13294B;
+    padding-bottom: 20px;
+}
+
+.mobileWarning {
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.mobileContact {
+    display: none;
+}
