@@ -66,6 +66,14 @@
     overflow: scroll;
 }
 
+.aboutBody {
+    color: #5AB7E8;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .tabContainer {
     display: flex;
     height: 100px;
@@ -388,20 +396,63 @@
     display: none;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+
+.certTitle {
+    width: 90%;
+    border-radius: 15px;
+    background-color: white;
+    border: 2px solid #5AB7E8;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+.certT1 {
+    font-size: 16pt;
+    font-weight: 450;
+    margin-right: 20px;
+    color: #5AB7E8;
+}
+
+.certT2 {
+    color: #707070;
+    font-size: 12pt;
+    margin-right: 50px;
+}
+
+.certTNum {
+    display: flex;
+    justify-content: flex-end;
+    color: #5AB7E8;
+    width: 100%;
+    
+}
+
+.certTNumTxt {
+    background-color: #13294B;
+    color: #5AB7E8;
+    border: 3px solid #5AB7E8;
+    border-bottom-right-radius: 12px;
+    padding: 5px;
 }
 
 .certBox {
-    height: 450px;
-    margin-top: auto;
-    margin-bottom: auto;
+    
     margin-left: auto;
     margin-right: auto;
 }
 
+.uncCertBox {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90%;
+    height: 400px;
+}
 
-
-
-
-
-
-
+.outwardCertBox {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90%;
+    height: 400px;
+}
