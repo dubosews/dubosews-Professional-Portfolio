@@ -18,42 +18,6 @@
         "deployed": "https://github.com/dubosews/18-Social-Media-API"
     },
     {
-        "name": "Code Refractor to ADA",
-        "description": "This application is a simple HTML page with some CSS. Starter code was given, but it was not up to the Americans with Disabilities Act standard. I had to modify the HTML and CSS to satisfy the ADA requirements.",
-        "github": "https://github.com/dubosews/01-Code-Refractor-to-ADA",
-        "deployed": "https://dubosews.github.io/01-Code-Refractor-to-ADA/"
-    },
-    {
-        "name": "CSS Portfolio",
-        "description": "Original portfolio, used for an assignment to introduce css concepts. Not complete.",
-        "github": "https://github.com/dubosews/dubosews_C02",
-        "deployed": "https://github.com/dubosews/dubosews_C02"
-    },
-    {
-        "name": "Password Generator",
-        "description": "This is application is a random password generator, powered by javascript. There are multiple customization options available to modify the contents of the generated passwords.",
-        "github": "https://github.com/dubosews/03-Password-Generator",
-        "deployed": "https://dubosews.github.io/03-Password-Generator/"
-    },
-    {
-        "name": "Coding Quiz",
-        "description": "This application is a timed code quiz, powered by javascript. It includes multiple choice questions that must be answered correctly within the time alotted.",
-        "github": "https://github.com/dubosews/dubosews_C04",
-        "deployed": "https://dubosews.github.io/04-Basic-Coding-Quiz/"
-    },
-    {
-        "name": "Work Day Scheduler",
-        "description": "This application is a modifiable hourly scheduler, which includes an indicator that shows how far through the day you are. ",
-        "github": "https://github.com/dubosews/05-Work-Day-Scheduler",
-        "deployed": "https://dubosews.github.io/05-Work-Day-Scheduler/"
-    },
-    {
-        "name": "Weather App",
-        "description": "This application is a basic tool that displays the current weather and forecast for most locations. This app uses the One Call API from OpenWeather to fetch the weather data for the desired city.",
-        "github": "https://github.com/dubosews/06-Weather-App",
-        "deployed": "https://dubosews.github.io/06-Weather-App/"
-    },
-    {
         "name": "README.md Generator",
         "description": "This application is made to expedite the final steps when publishing a respository for use. It provides multiple inquiries which are used to fill in the README.md document being generated. ",
         "github": "https://github.com/dubosews/09-README.MD-Generator",
@@ -96,9 +60,45 @@
         "deployed": "https://github.com/dubosews/18-Social-Media-API"
     },
     {
+        "name": "Password Generator",
+        "description": "This is application is a random password generator, powered by javascript. There are multiple customization options available to modify the contents of the generated passwords.",
+        "github": "https://github.com/dubosews/03-Password-Generator",
+        "deployed": "https://dubosews.github.io/03-Password-Generator/"
+    },
+    {
+        "name": "Coding Quiz",
+        "description": "This application is a timed code quiz, powered by javascript. It includes multiple choice questions that must be answered correctly within the time alotted.",
+        "github": "https://github.com/dubosews/dubosews_C04",
+        "deployed": "https://dubosews.github.io/04-Basic-Coding-Quiz/"
+    },
+    {
+        "name": "Work Day Scheduler",
+        "description": "This application is a modifiable hourly scheduler, which includes an indicator that shows how far through the day you are. ",
+        "github": "https://github.com/dubosews/05-Work-Day-Scheduler",
+        "deployed": "https://dubosews.github.io/05-Work-Day-Scheduler/"
+    },
+    {
+        "name": "Weather App",
+        "description": "This application is a basic tool that displays the current weather and forecast for most locations. This app uses the One Call API from OpenWeather to fetch the weather data for the desired city.",
+        "github": "https://github.com/dubosews/06-Weather-App",
+        "deployed": "https://dubosews.github.io/06-Weather-App/"
+    },
+    {
         "name": "PWA Budget Tracker",
         "description": "This is a simple React.JS budget tracker application. The main purpose behind building this application was to get some familiarity with the use, purpose and deployment of Personal Web Applications.",
         "github": "https://github.com/dubosews/19-PWA-Budget-Tracker",
         "deployed": "https://github.com/dubosews/19-PWA-Budget-Tracker"
-    }
+    },
+    {
+        "name": "Code Refractor to ADA",
+        "description": "This application is a simple HTML page with some CSS. Starter code was given, but it was not up to the Americans with Disabilities Act standard. I had to modify the HTML and CSS to satisfy the ADA requirements.",
+        "github": "https://github.com/dubosews/01-Code-Refractor-to-ADA",
+        "deployed": "https://dubosews.github.io/01-Code-Refractor-to-ADA/"
+    },
+    {
+        "name": "React.JS Development Portfolio",
+        "description": "This is the source code for Wesley DuBose's professional development portfolio. This entire application was developed using React.js. Included in this application is a solid framework that runs smoothly, as well as dynamic styling that includes animations, transitions and more.",
+        "github": "https://github.com/dubosews/dubosews-Professional-Portfolio",
+        "deployed": "https://dubosews.dev"
+    }    
 ]
