@@ -1,5 +1,11 @@
 [
     {
+        "name": "React.JS Development Portfolio",
+        "description": "This is the source code for Wesley DuBose's professional development portfolio. This application was developed using React.js. Included is a solid framework that runs smoothly, as well as dynamic styling that includes animations, transitions and more.",
+        "github": "https://github.com/dubosews/dubosews-Professional-Portfolio",
+        "deployed": "https://dubosews.dev"
+    },   
+    {
         "name": "Project 01: Meal Planner",
         "description": "Our app, Meal Crafter, is a 5-day meal planner. This app allows for the consumer discover new meals, and provide ingredients to help make shopping easier and quicker. Meal crafter allows for the consumer to plan out their meals for breakfast, lunch, and dinner.",
         "github": "https://github.com/dubosews/Meal_Crafter",
@@ -94,11 +100,5 @@
         "description": "This application is a simple HTML page with some CSS. Starter code was given, but it was not up to the Americans with Disabilities Act standard. I had to modify the HTML and CSS to satisfy the ADA requirements.",
         "github": "https://github.com/dubosews/01-Code-Refractor-to-ADA",
         "deployed": "https://dubosews.github.io/01-Code-Refractor-to-ADA/"
-    },
-    {
-        "name": "React.JS Development Portfolio",
-        "description": "This is the source code for Wesley DuBose's professional development portfolio. This entire application was developed using React.js. Included in this application is a solid framework that runs smoothly, as well as dynamic styling that includes animations, transitions and more.",
-        "github": "https://github.com/dubosews/dubosews-Professional-Portfolio",
-        "deployed": "https://dubosews.dev"
-    }    
+    }
 ]
