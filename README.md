@@ -1,19 +1,23 @@
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; margin-top: 20px; margin-bottom: 20px;">
 <img src="./src/img/reactjsREADMEbadge.png" style="width: 30%; margin-right: 175px;"></img>
+<div style="display: inline">
 
 # Wesley DuBose's Development Portfolio <br>
+Developed by: Wesley S. DuBose
+Framework: React.js
+</div>
 </div><br>
 
 
 
 ## Deployment
 <a href="https://dubosews.dev" style="display: flex; justify-content: center;">
-  <br><img src="./src/img/dubosewsPortfolioScreenshotREADME.png" alt="readmeScreenshot" /><br><br>
+  <br><img src="./src/img/dubosewsPortfolioScreenshotREADME.png" alt="readmeScreenshot" /></a><br><br>
 
-## Live-Application  
+## Live-Application
+
 ### https://dubosews.dev/ 
-  
-</a><br><br>
+<br>
 
 ## Table of Contents
   1. [Deployment](#deployment)
