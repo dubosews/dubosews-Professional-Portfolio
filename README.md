@@ -1,26 +1,29 @@
-<center> 
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+<img src="./src/img/reactjsREADMEbadge.png" style="width: 30%; margin-right: 175px;"></img>
 
-# Wesley DuBose's Development Portfolio 
-</center> <br>
+# Wesley DuBose's Development Portfolio <br>
+</div><br>
+
+
 
 ## Deployment
 <a href="https://dubosews.dev" style="display: flex; justify-content: center;">
-
-  ### https://dubosews.dev/ 
   <br><img src="./src/img/dubosewsPortfolioScreenshotREADME.png" alt="readmeScreenshot" />
+
+### https://dubosews.dev/ 
+  
 </a><br><br>
 
 ## Table of Contents
   1. [Deployment](#deployment)
-  2. [Screenshot](#screenshot)
-  3. [Description](#description) 
-  4. [Installation](#installation)
-  5. [Usage](#usage)  
-  6. [Contributing](#contributing)
-  7. [Tests](#tests)
-  8. [License](#license)
-  9. [Questions](#questions)
-  10. [E-mail](#e-mail)
+  2. [Description](#description) 
+  3. [Installation](#installation)
+  4. [Usage](#usage)  
+  5. [Contributing](#contributing)
+  6. [Tests](#tests)
+  7. [License](#license)
+  8. [Questions](#questions)
+  9.  [E-mail](#e-mail)
 <br><br>
 
 ## Description
@@ -50,8 +53,8 @@ There are no tests designed for this application.
 
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="./misc/contact%20icons/contactGmail.png" style="width: 5%; margin: 30px;" alt="gmailLogo"></img>
-  <div style="margin-left: 20px"> Contact Email: <a href="mailto:wsd10205@gmail.com">wsd10205@gmail.com</a></div><br><br>
+  <img src="./misc/contact%20icons/contactGmail.png" style="width: 5%; margin-right: 28px; margin-left: 22px;" alt="gmailLogo"></img>
+  Contact Email: <a href="mailto:wsd10205@gmail.com">wsd10205@gmail.com</a><br><br>
 </div><br>
 
 
