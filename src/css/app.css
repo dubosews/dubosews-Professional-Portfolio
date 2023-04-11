@@ -12,6 +12,11 @@
     justify-content: center;
 }
 
+.header img {
+    width: 80%;
+    height: auto;
+}
+
 body {
     background-color: #13294B;
 }
