@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9b154a7.css",
-    "main.js": "/static/js/main.28916d85.js",
+    "main.css": "/static/css/main.40feb413.css",
+    "main.js": "/static/js/main.0c10ff05.js",
     "static/media/wesleyIMG.png": "/static/media/wesleyIMG.73158116c9988d17d062.png",
     "static/media/portfolioBackground.png": "/static/media/portfolioBackground.feb8e0ef0d3a369a41d8.png",
     "static/media/firefox.png": "/static/media/firefox.25e0a7aae6db100357b8.png",
+    "static/media/dubosewsResume.pdf": "/static/media/dubosewsResume.892f71edac62b79f40d3.pdf",
     "static/media/dubosewsOutwardBound.pdf": "/static/media/dubosewsOutwardBound.a8574d565e2d4c57267c.pdf",
     "static/media/revit.png": "/static/media/revit.5086e74deea5fecc8a8e.png",
     "static/media/safari.png": "/static/media/safari.033285753925a088f352.png",
@@ -13,7 +14,6 @@
     "static/media/ubuntu.png": "/static/media/ubuntu.460bb020afc047b0e32f.png",
     "static/media/googleDrive.png": "/static/media/googleDrive.3a1bd09b723b29f70840.png",
     "static/media/dubosewsUNCCertificate.pdf": "/static/media/dubosewsUNCCertificate.63806f7a7c14bbfb0dc6.pdf",
-    "static/media/dubosewsResume.pdf": "/static/media/dubosewsResume.5dadfa39873078e05db2.pdf",
     "static/media/ArcGIS.png": "/static/media/ArcGIS.836cb9ce0f46888db4d2.png",
     "static/media/audacity.png": "/static/media/audacity.b411f33fc87f2840955a.png",
     "static/media/ReactJS.png": "/static/media/ReactJS.048a6df93ca4bb2fa827.png",
@@ -70,11 +70,11 @@
     "static/media/adobe_creativeCloud.png": "/static/media/adobe_creativeCloud.ea84b1a219c76075beae.png",
     "static/media/discord.png": "/static/media/discord.667df059ddf407979d68.png",
     "index.html": "/index.html",
-    "main.a9b154a7.css.map": "/static/css/main.a9b154a7.css.map",
-    "main.28916d85.js.map": "/static/js/main.28916d85.js.map"
+    "main.40feb413.css.map": "/static/css/main.40feb413.css.map",
+    "main.0c10ff05.js.map": "/static/js/main.0c10ff05.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9b154a7.css",
-    "static/js/main.28916d85.js"
+    "static/css/main.40feb413.css",
+    "static/js/main.0c10ff05.js"
   ]
 }
