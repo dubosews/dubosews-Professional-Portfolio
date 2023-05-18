@@ -66,4 +66,4 @@ There are no tests designed for this application.
 
 
 ### Directions for reaching out with further questions:
-    Feel free to reach out to me with questions, comments, suggestions or job offers. I put a lot of work into making this application look and run well, so I hope you enjoy it! Thank you for Checking out my Professional Development Portfolio. Please do not reach out to me for solicitation or scams. 
+    Feel free to reach out to me with questions, comments, suggestions or job offers. I put a lot of work into making this application look decent and run smoothly, so I hope you enjoy it! Thank you for Checking out my Professional Development Portfolio. Please do not reach out to me for solicitation or scams. 
